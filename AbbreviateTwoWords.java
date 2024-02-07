@@ -3,7 +3,7 @@ package utilities;
 /**
  * Provides utility methods for abbreviating names.
  */
-public class AbbreviateTwoWords {
+public final class AbbreviateTwoWords {
 
     // Make the constructor private to prevent instantiation of the class
     private AbbreviateTwoWords() {}
